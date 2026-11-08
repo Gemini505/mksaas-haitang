@@ -1,0 +1,15 @@
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (1, 1, '选集', 8, '選集');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (2, 3, '主题', 12, '主題');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (3, 4, '写景', 16, '寫景');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (4, 5, '节日', 8, '節日');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (5, 7, '节气', 24, '節氣');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (6, 12, '课本', 8, '課本');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (7, 8, '词牌', 8, '詞牌');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (8, 10, '时令', 8, '時令');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (9, 16, '用典', 16, '用典');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (10, 13, '地理', 12, '地理');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (20, 11, '花卉', 8, '花卉');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (25, 9, '时间', 12, '時間');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (26, 15, '名山', 12, '名山');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (27, 14, '城市', 8, '城市');
+INSERT INTO "collection_kinds" ("id", "show_order", "name", "limit", "name_tr") VALUES (28, 20, '书籍', 8, '書籍');
